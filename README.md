@@ -330,7 +330,7 @@ Si encuentras bugs o tienes sugerencias, por favor abre un [Issue](https://githu
 ---
 
 <p align="center">
-  <strong>Hecho para la comunidad de seguridad</strong>
+  <strong>Hecho por <a href="https://github.com/emopulsex-sec">emopulsex-sec</strong>
 </p>
 
 <p align="center">
