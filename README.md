@@ -325,12 +325,12 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 📧 Contacto
 
-Si encuentras bugs o tienes sugerencias, por favor abre un [Issue](https://github.com/emopulsex-sec/web-data-exposure-scanner/issues).
+Si encuentras bugs o tienes sugerencias, por favor abre un [Issue](https://github.com/eduardoit/web-data-exposure-scanner/issues).
 
 ---
 
 <p align="center">
-  <strong>Hecho por <a href="https://github.com/emopulsex-sec">emopulsex-sec</strong>
+  <strong>Hecho por <a href="https://github.com/eduardoit">eduardoit</strong>
 </p>
 
 <p align="center">
